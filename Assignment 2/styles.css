@@ -1,0 +1,106 @@
+
+.banner-card{
+    position: relative;
+}
+
+
+.banner-card img{
+    width: 500px;
+    padding-left:2px;
+}
+
+
+.banner-top{
+    position: absolute;
+    top: 0;
+    
+    color: rgba(225, 255, 0, 0.536);
+    font-size: 15px;
+    padding-left: 10px;
+    margin: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+
+.banner-text{
+    position: absolute;
+    top: 0;
+    
+    color: rgba(255, 0, 0, 0.72);
+    padding: 100px;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.banner-bottom{
+    position: absolute;
+    bottom: 8px;
+    color: rgb(255, 0, 0);
+    padding: 230px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.banner-center{
+    position: absolute;
+    top: 0;
+    color: rgba(0, 255, 195, 0.559);
+    margin: 220px;
+    padding: 1px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.banner-top-right{
+    position: absolute;
+    top: 0;
+    color: rgba(255, 0, 21, 0.718);
+    margin-left: 390px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+}
+
+
+.banner-bottom-center{
+    position: absolute;
+    top: 0;
+    color: rgb(255, 255, 255);
+    margin-left: 14px;
+    padding-top: 610px;
+    font-size: 8.5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+
+.banner-bottom-john{
+    position: absolute;
+    top: 0;
+    color: rgb(255, 255, 255);
+    margin-left: 140px;
+    padding-top: 650px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+}
+
+.banner-side-left{
+    position: absolute;
+    top: 0;
+    
+    color: rgba(225, 255, 0, 0.744);
+    font-size: 22px;
+    padding-top: 30px;
+    margin-left: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    
+}
